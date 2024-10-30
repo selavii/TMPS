@@ -1,5 +1,5 @@
 // src/client/Main.java
-package client;
+
 
 import domain.*;
 import factory.AccountFactory;
