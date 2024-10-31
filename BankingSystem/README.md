@@ -15,4 +15,4 @@ This project is a basic banking system application to demonstrate object-oriente
 ### Requirements
 - Java JDK
 - Git
-- IntelliJ IDEA / Eclipse
+
